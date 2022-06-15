@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UIControls</string>
+    <string name="on_click">Click!</string>
+    <string name="on_long_click">Long Click!</string>
+    <string name="button_name">Submit</string>
+    <string name="RightAnswer">Correct answer</string>
+    <string name="wrong_answer">Incorrect answer</string>
+    <string name="Question">Choose correct answer</string>
+    <string name="correct">Correct!</string>
+    <string name="not_checked">Choose an answer</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="navigate">Click here to open another screen</string>
+    <string name="return_to_previous_screen">Return to previous screen</string>
+</resources>
